@@ -1,13 +1,13 @@
 {
-  "Version": "1.0",
+  "Version": "1.2",
   "ReleaseNotes": "Nueva Atualizacion Disponível",
-  "UrlUpdate": "https://raw.githubusercontent.com/vpsvip7/json24/refs/heads/main/config.json",
+  "UrlUpdate": "https://raw.githubusercontent.com/EMYTOWK19/Emyto-vps/refs/heads/main/config.xml",
   "Sms": "",
-  "BackgroundLink": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Troncal_10.jpg",
-  "LogoLink": "https://e7.pngegg.mbnail.png",
+  "BackgroundLink": "https://i.ibb.co/zrV9rkp/app-background-image.png",
+  "LogoLink": "https://i.ibb.co/BKy0b39y/0d2b1ceb-a5b1-481b-aea0-b2c64956a49f.png",
   "Servers": [
   {
-   "Name": "Personal 🇦🇷 Cloudfront AR",
+   "Name": "Servidor no disponible 🟥",
    "FLAG": "br",
    "ServerIP": "recargas.personal.com.ar",
    "ServerPort": "80",
@@ -22,11 +22,11 @@ OPTION / HTTP/1.1[crlf]Host: recargas.personal.com.ar[crlf][crlf]GET / HTTP/1.1[
    "Slowchave": "",
    "Nameserver": "",
    "Slowdns": "",
-   "URLCheckuser": "http://1fd.v202.shop:5001/checkUser",
+   "URLCheckuser": "",
    "TunnelType": "Proxy"
   },
  {
-   "Name": "Personal Chile🇨🇱  Cloudflare",
+   "Name": "EMYTO-VPS🇨🇱",
    "FLAG": "br",
    "ServerIP": "emailmarketing.personal.com.ar",
    "ServerPort": "80",
@@ -44,7 +44,7 @@ OPTION / HTTP/1.1[crlf]Host: recargas.personal.com.ar[crlf][crlf]GET / HTTP/1.1[
    "TunnelType": "Direct"
   },
  {
-   "Name": "Personal Prepago 🇦🇷 CloudFlare",
+   "Name": " NO DISPONIBLE🟥",
    "FLAG": "br",
    "ServerIP": "emailmarketing.personal.com.ar",
    "ServerPort": "80",
@@ -58,7 +58,7 @@ OPTION / HTTP/1.1[crlf]Host: recargas.personal.com.ar[crlf][crlf]GET / HTTP/1.1[
    "Slowchave": "",
    "Nameserver": "",
    "Slowdns": "",
-   "URLCheckuser": " http://186.148.224.18:5001",
+   "URLCheckuser": " ",
    "TunnelType": "Direct"
   },
 {
@@ -76,7 +76,7 @@ OPTION / HTTP/1.1[crlf]Host: recargas.personal.com.ar[crlf][crlf]GET / HTTP/1.1[
    "Slowchave": "",
    "Nameserver": "",
    "Slowdns": "",
-   "URLCheckuser": " http://1wu.v202.shop:5001/checkUser",
+   "URLCheckuser": " ",
    "TunnelType": "Direct"
   }
  ]
